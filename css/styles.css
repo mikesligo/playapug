@@ -1,0 +1,27 @@
+
+.content-box{
+    height:100%;
+    background-color:#FFFFD1;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right:100px;
+    padding-top:20px;
+    padding-right:60px;
+    padding-left:60px;
+    padding-bottom:30px;
+    width:800px;
+    margin:0 auto;
+    border-style:ridge;
+    border-width:1px;
+    border-color:#DABD47
+}
+
+.accordion{
+    background:none;
+    background-color:#F5E39A;
+}
+
+body{ 
+    font-family: "Trebuchet MS", sans-serif;
+}
