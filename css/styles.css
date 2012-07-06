@@ -1,12 +1,11 @@
 
 .content-box{
+    position:relative;
     height:100%;
     background-color:#FFFFD1;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 100px;
-    margin-right:100px;
-    padding-top:20px;
+    padding-top:15px;
     padding-right:60px;
     padding-left:60px;
     padding-bottom:30px;
@@ -22,6 +21,43 @@
     background-color:#F5E39A;
 }
 
+.header1 {
+    font-family: "Open sans", sans-serif;
+    font-weight: 700;
+    font-size: 1.7em;
+}
+
+.header2{
+    font-family: "Open sans", sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    padding-top:0px;
+    margin: 0px;
+}
+
+.para {
+    text-align:left;
+    padding-top:0px;
+    padding-right:30px;
+    padding-left:140px;
+    padding-bottom:0px;
+    font-size: 1.05em;
+    margin: 0px;
+}
+
+.info {
+}
+
+.emphasis {
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
 body{ 
-    font-family: "Trebuchet MS", sans-serif;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: "Open sans", sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+    color:#3f3731;
 }
