@@ -35,7 +35,7 @@
     margin: 0px;
 }
 
-.para {
+.para1 {
     text-align:left;
     padding-top:0px;
     padding-right:30px;
@@ -45,7 +45,24 @@
     margin: 0px;
 }
 
-.info {
+.para2 {
+    text-align:left;
+    padding-top:0px;
+    padding-right:30px;
+    padding-left:30px;
+    padding-bottom:0px;
+    font-size: 1.1em;
+    margin: 0px;
+}
+
+#para3 {
+    text-align:left;
+    padding-top:0px;
+    padding-right:30px;
+    padding-left:30px;
+    padding-bottom:0px;
+    font-size: 1.05em;
+    margin: 0px;
 }
 
 .emphasis {
