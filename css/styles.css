@@ -107,6 +107,21 @@ ul.list-tick li {
   background-position:0px 5px; 
 }
 
+table{
+  margin-top:0px;
+  padding:0px;
+}
+
+td {
+  width:50%;
+  vertical-align:top;
+  text-align:left;
+}
+
+tr {
+  width:100%;
+}
+
 body{ 
     margin-left:auto;
     margin-right:auto;
