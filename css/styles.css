@@ -17,8 +17,13 @@
 }
 
 .accordion{
+    font-size: 1.4em;
     background:none;
     background-color:#F5E39A;
+}
+
+.accordiontext{
+    line-height:200%;
 }
 
 .header1 {
@@ -48,26 +53,58 @@
 .para2 {
     text-align:left;
     padding-top:0px;
-    padding-right:30px;
-    padding-left:30px;
+    padding-right:50px;
+    padding-left:50px;
     padding-bottom:0px;
     font-size: 1.1em;
     margin: 0px;
 }
 
-#para3 {
+.para3 {
     text-align:left;
     padding-top:0px;
     padding-right:30px;
     padding-left:30px;
     padding-bottom:0px;
-    font-size: 1.05em;
+    font-size: 1em;
     margin: 0px;
 }
 
+.para4 {
+    line-height:100%;
+    text-align:left;
+    padding-top:0px;
+    padding-right:30px;
+    padding-left:30px;
+    padding-bottom:0px;
+    font-size: 1em;
+    margin: 0px;
+}
 .emphasis {
     font-weight: 700;
     font-size: 1.2em;
+}
+
+.emphasis2 {
+    font-weight: 700;
+    font-size: 1.4em;
+}
+
+a:link {color:#E6412E;font-weight:bold;}      /* unvisited link */
+a:visited {color:#E6412E;font-weight:bold;}  /* visited link */
+a:active {color:#E6412E;font-weight:bold;}  /* selected link */
+
+ul.list-tick {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul.list-tick li {
+  margin: 0;
+  padding-left:24px;
+  background: url('../images/list_icons/list1.png') no-repeat top left;
+  background-repeat: no-repeat;
+  background-position:0px 5px; 
 }
 
 body{ 

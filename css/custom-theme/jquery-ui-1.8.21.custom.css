@@ -53,7 +53,7 @@
 
 /* Component containers
 ----------------------------------*/
-.ui-widget { font-size: 1.5em; }
+.ui-widget { font-size: 1em; }
 .ui-widget .ui-widget { font-size: 1em; }
 .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-size: 1em; }
 .ui-widget-content { border: 1px solid #e0cfc2; background: #FFFFe3 url(images/ui-bg_highlight-soft_100_ffffd1_1x100.png) 50% top repeat-x; color: #1e1b1d; }
