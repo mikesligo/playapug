@@ -16,6 +16,19 @@
     border-color:#DABD47
 }
 
+div.img {
+  margin:2px;
+  height:auto;
+  width:auto;
+  float:top;
+  text-align:center;
+}
+div.img img {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+}
+
 .accordion{
     font-size: 1.4em;
     background:none;
@@ -38,6 +51,38 @@
     font-size: 1em;
     padding-top:0px;
     margin: 0px;
+}
+
+.header2half{
+    font-family: "Open sans", sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    padding-top:0px;
+    margin: 0px;
+    width:300px;
+    position:relative;
+    float:left;
+    text-align:top;
+}
+
+.half {
+    left:20px;
+    width:300px;
+    position:relative;
+    float:right;
+    text-align:top;
+}
+
+.twoparts{
+    text-align:top;
+    clear: both;
+    border-style:dotted;
+    border-width:1px;
+    border-color:#DABD47
+}
+
+.roles{
+    height:500px;
 }
 
 .para1 {
@@ -77,7 +122,7 @@
     padding-right:30px;
     padding-left:30px;
     padding-bottom:0px;
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 0px;
 }
 .emphasis {
@@ -105,21 +150,6 @@ ul.list-tick li {
   background: url('../images/list_icons/list1.png') no-repeat top left;
   background-repeat: no-repeat;
   background-position:0px 5px; 
-}
-
-table{
-  margin-top:0px;
-  padding:0px;
-}
-
-td {
-  width:50%;
-  vertical-align:top;
-  text-align:left;
-}
-
-tr {
-  width:100%;
 }
 
 body{ 
